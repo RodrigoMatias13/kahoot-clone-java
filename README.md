@@ -26,7 +26,6 @@ O projeto utiliza Maven para a compilação. Siga os passos abaixo para iniciar 
 ### 1. Iniciar o Servidor
 
 O servidor gerará os códigos dos jogos através da sua TUI[cite: 3]. Abra um terminal e execute:
-
 ```bash
 java -jar target/server.jar
 ```
@@ -34,7 +33,6 @@ java -jar target/server.jar
 ### 2. Iniciar os Clientes (Jogadores)
 
 Abra um novo terminal para cada jogador. Os argumentos obrigatórios de inicialização são o IP, Porto, Código do Jogo, Nome da Equipa e Nome do Jogador[cite: 3]:
-
 ```bash
 java -jar target/client.jar localhost 12345 [CÓDIGO_DO_JOGO] [NOME_DA_EQUIPA] [NOME_DO_JOGADOR]
 ```
