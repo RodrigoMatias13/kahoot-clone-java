@@ -43,5 +43,5 @@ java -jar target/client.jar localhost 12345 [CÓDIGO_DO_JOGO] [NOME_DA_EQUIPA] [
 
 Abra novos terminais e repita o passo 2 para cada jogador necessário até preencher o número configurado para o jogo[cite: 3].
 
-##👤 Autor
+### 👤 Autor
 * Rodrigo Matias
